@@ -39,4 +39,8 @@ SELECT SUM(smark) "SUM : " FROM STUDENT;
 SELECT count(*) "Count : "FROM STUDENT;
 SELECT avg(smark) "Average : "FROM STUDENT;
 ```
+## OUTPUT :
+![image](https://github.com/Archana2003-Jkumar/Exp-7-dbms/assets/93427594/c610301c-e38e-432b-be20-2ec027c9abae)
 
+## RESULT :
+Hence the program has been successfully executed.
